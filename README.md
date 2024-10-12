@@ -1,5 +1,5 @@
 # 👾 WELCOME TO THE VOID 👾
-░░N ░▒E▒▒B▒▒▒U▒▒▒▒L▒▒A▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒Wҽa⍉vξr▒▒Wҽa⍉vξr▒▒Wҽa⍉vξr▒▒Wҽa⍉vξr▒▒Wҽa⍉vξrWҽa⍉vξr▒▒Wҽa⍉vξr▒▒
+░N░▒E▒▒B▒▒▒U▒▒▒▒L▒▒A▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒Wҽa⍉vξr▒▒Wҽa⍉vξr▒▒Wҽa⍉vξr▒▒Wҽa⍉vξr▒▒Wҽa⍉vξrWҽa⍉vξr▒▒Wҽa⍉vξr▒▒
 
 > _"A glitch in the system. A coder with a quantum twist."_  
 > _I write code that transcends space and time._
